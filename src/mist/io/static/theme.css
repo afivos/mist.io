@@ -605,7 +605,7 @@ html .ui-bar-c a,
 html .ui-body-c a,
 html body .ui-group-theme-c a {
 	color: #3388cc /*{c-link-color}*/;
-	font-weight: bold;
+	font-weight: normal;
 }
 .ui-page-theme-c a:visited,
 html .ui-bar-c a:visited,

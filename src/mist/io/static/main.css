@@ -750,7 +750,7 @@ ul.checkbox-list .ui-grid-b {
     font-size: 14px;
     padding: .8em 2.5em .8em 1.1em !important;
     color: #444;
-    font-weight: bold;
+    font-weight: normal;
 }
 .checkbox-link a:after {
     right: 19px;

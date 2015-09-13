@@ -150,7 +150,7 @@
     width: 21.6% !important;
     text-align: center;
     margin-left: -18px;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .machine-state .ajax-loader {
