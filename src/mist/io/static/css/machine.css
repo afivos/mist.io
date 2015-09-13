@@ -76,7 +76,7 @@
     font-weight: 400;
 }
 #single-machine-page .ui-collapsible .ui-collapsible-content {
-    background-color: #faf9f4;
+    background-color: #FFF;
 }
 #single-machine-page .info-table {
     width: 100%;
@@ -110,7 +110,7 @@
     color: #7f7f7f;
 }
 #single-machine-page .info-table tr {
-    background-color: #faf9f4;
+    background-color: #FFF;
     border: none;
 }
 #single-machine-page .info-table tr:hover {

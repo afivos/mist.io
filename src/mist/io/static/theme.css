@@ -311,7 +311,7 @@ html .ui-bar-a .ui-btn:visited,
 html .ui-body-a .ui-btn:visited,
 html body .ui-group-theme-a .ui-btn:visited,
 html head + body .ui-btn.ui-btn-a:visited {
-	background-color: #FAF9F4 /*{a-bup-background-color}*/;
+	background-color: #FFF /*{a-bup-background-color}*/;
 	border-color: transparent /*{a-bup-border}*/;
 	color: #000000 /*{a-bup-color}*/;
 	text-shadow: none /*{a-bup-shadow-color}*/;
