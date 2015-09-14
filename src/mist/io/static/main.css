@@ -689,7 +689,7 @@ textarea {
 #script-list-page .scripts-header,
 #network-list-page .networks-header {
     background-color: #d4d4d4;
-    margin-top: 1%;
+    /*margin-top: 1%;*/
     overflow: visible;
     height: 65px;
 }
