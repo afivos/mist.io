@@ -731,10 +731,10 @@ ul.checkbox-list li a {
     background-color: transparent !important;
 }
 ul.checkbox-list li {
-    background-color: #FAF9F4 !important;
+    background-color: transparent; !important;
 }
 ul.checkbox-list li:hover {
-    background-color: #edece8 !important;
+    background-color: #F2F2F2 !important;
 }
 
 ul.checkbox-list .ui-grid-b {
