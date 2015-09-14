@@ -91,12 +91,13 @@
 #single-machine-page .info-table tr:last-child td {
     border-bottom: none;
 }
+
 #single-machine-page .info-table tr td:nth-child(1) {
     padding-left: 70px;
 }
 
-/* Conditional for < 500px */
-@media only screen and  (max-width: 500px) {
+/* Conditional for < 768 */
+@media (max-width: 768px) {
     #single-machine-page .info-table tr td:nth-child(1) {
         padding-left: 30px;
     }
