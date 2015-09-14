@@ -49,10 +49,10 @@
     padding: 3px 0 0 0;
     height: 32px;
     box-sizing: border-box;
-    background-color: #FAF9F4;
+    /*background-color: #FAF9F4;*/
 }
 #history-control a.time:hover {
-    background-color: #FAF9F4;
+    background-color: transparent;
 }
 #history-control a.time.ui-state-disabled {
     opacity: .5;
@@ -89,8 +89,8 @@
     padding: 2px 5px !important;
     border-width: 0px;
     color: #444;
-    background-color: #FAF9F4;
-    border: 1px solid #FAF9F4;
+    /*background-color: #FAF9F4;*/
+    border: 1px solid #FFF;
 }
 
 #time-window-control .ui-btn:after {

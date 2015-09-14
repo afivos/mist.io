@@ -86,7 +86,7 @@
     margin: 8px 20px 0 0;
     padding: 0;
     border-width: 0px;
-    background-color: #FAF9F4;
+    /*background-color: #FAF9F4;*/
 }
 
 .graph > .header > .ui-btn.icon-xx {
@@ -98,7 +98,7 @@
 }
 
 .graph > .header > .ui-btn:hover {
-    background-color: #FAF9F4;
+    background-color: transparent;
 }
 
 .graph > .header > .ui-btn:after {
