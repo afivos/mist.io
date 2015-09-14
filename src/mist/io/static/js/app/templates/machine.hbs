@@ -83,7 +83,7 @@
         <!--
              Monitoring collapsible
         -->
-        <div id="monitoring-collapsible" data-role="collapsible" data-collapsed="false" class="ui-shadow">
+        <div id="monitoring-collapsible" data-role="collapsible" data-collapsed="false" class="box">
             <h4>Monitoring</h4>
             {{#if view.machine}}
             {{component "machine-monitoring" machine=view.machine}}
@@ -94,7 +94,7 @@
         <!--
              Information collapsibles
         -->
-        <div id="single-machine-info" data-role="collapsible" data-collapsed="false" class="ui-shadow">
+        <div id="single-machine-info" data-role="collapsible" data-collapsed="false" class="box">
 
             <h4>Basic Info</h4>
 
@@ -205,7 +205,7 @@
         </div>
 
         {{#if view.metadata}}
-            <div id="single-machine-metadata" data-role="collapsible" class="ui-shadow">
+            <div id="single-machine-metadata" data-role="collapsible" class="box">
 
                 <h4>Full metadata list</h4>
 
