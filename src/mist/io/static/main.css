@@ -1545,4 +1545,6 @@ ul.checkbox-list .ui-grid-b {
 .box {
     border: 1px solid #DDD;
     background-color: #FFF;
+    border-radius: 4px;
+    margin-top: 1%;
 }
