@@ -731,7 +731,7 @@ ul.checkbox-list li a {
     background-color: transparent !important;
 }
 ul.checkbox-list li {
-    background-color: transparent; !important;
+    background-color: #FFF; !important;
 }
 ul.checkbox-list li:hover {
     background-color: #F2F2F2 !important;
